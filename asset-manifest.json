@@ -1,7 +1,12 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/static/css/main.4a499485.css",
     "main.js": "/static/js/main.b14c1230.js",
+=======
+    "main.css": "/static/css/main.3a7d2b6e.css",
+    "main.js": "/static/js/main.fcabb938.js",
+>>>>>>> 82b3ed0eaf46df7fcbfe942153309c3d57d8d834
     "pdfmake.js": "/static/js/pdfmake.de9ab592.chunk.js",
     "canvg.js": "/static/js/canvg.b286e6d7.chunk.js",
     "xlsx.js": "/static/js/xlsx.192507fe.chunk.js",
@@ -19,8 +24,13 @@
     "static/media/flags.png": "/static/media/flags.ae53191452bb217f0fa6.png",
     "static/media/digital-7_woff": "/static/media/digital-7_b73ef91485431ac0271f24009e14ccee.8e7783d8db97abaa0df5.woff",
     "index.html": "/index.html",
+<<<<<<< HEAD
     "main.4a499485.css.map": "/static/css/main.4a499485.css.map",
     "main.b14c1230.js.map": "/static/js/main.b14c1230.js.map",
+=======
+    "main.3a7d2b6e.css.map": "/static/css/main.3a7d2b6e.css.map",
+    "main.fcabb938.js.map": "/static/js/main.fcabb938.js.map",
+>>>>>>> 82b3ed0eaf46df7fcbfe942153309c3d57d8d834
     "pdfmake.de9ab592.chunk.js.map": "/static/js/pdfmake.de9ab592.chunk.js.map",
     "canvg.b286e6d7.chunk.js.map": "/static/js/canvg.b286e6d7.chunk.js.map",
     "xlsx.192507fe.chunk.js.map": "/static/js/xlsx.192507fe.chunk.js.map",
@@ -34,7 +44,12 @@
     "765.506641a8.chunk.js.map": "/static/js/765.506641a8.chunk.js.map"
   },
   "entrypoints": [
+<<<<<<< HEAD
     "static/css/main.4a499485.css",
     "static/js/main.b14c1230.js"
+=======
+    "static/css/main.3a7d2b6e.css",
+    "static/js/main.fcabb938.js"
+>>>>>>> 82b3ed0eaf46df7fcbfe942153309c3d57d8d834
   ]
 }
