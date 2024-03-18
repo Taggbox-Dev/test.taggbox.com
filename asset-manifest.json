@@ -1,10 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.baf521c7.css",
+<<<<<<< HEAD
     "main.js": "/static/js/main.50e28825.js",
     "pdfmake.js": "/static/js/pdfmake.6e28ee77.chunk.js",
     "canvg.js": "/static/js/canvg.0e0774b1.chunk.js",
     "xlsx.js": "/static/js/xlsx.99e395b5.chunk.js",
+=======
+    "main.js": "/static/js/main.a8bbf529.js",
+    "pdfmake.js": "/static/js/pdfmake.cf8f3a7c.chunk.js",
+    "canvg.js": "/static/js/canvg.0e0774b1.chunk.js",
+    "xlsx.js": "/static/js/xlsx.652db746.chunk.js",
+>>>>>>> 36bea746161414a363b8312e5666c16031a4d44a
     "static/js/414.7a567288.chunk.js": "/static/js/414.7a567288.chunk.js",
     "static/js/77.34bd9019.chunk.js": "/static/js/77.34bd9019.chunk.js",
     "static/js/282.ec1017c4.chunk.js": "/static/js/282.ec1017c4.chunk.js",
@@ -37,10 +44,17 @@
     "static/media/digital-7_woff": "/static/media/digital-7_b73ef91485431ac0271f24009e14ccee.8e7783d8db97abaa0df5.woff",
     "index.html": "/index.html",
     "main.baf521c7.css.map": "/static/css/main.baf521c7.css.map",
+<<<<<<< HEAD
     "main.50e28825.js.map": "/static/js/main.50e28825.js.map",
     "pdfmake.6e28ee77.chunk.js.map": "/static/js/pdfmake.6e28ee77.chunk.js.map",
     "canvg.0e0774b1.chunk.js.map": "/static/js/canvg.0e0774b1.chunk.js.map",
     "xlsx.99e395b5.chunk.js.map": "/static/js/xlsx.99e395b5.chunk.js.map",
+=======
+    "main.a8bbf529.js.map": "/static/js/main.a8bbf529.js.map",
+    "pdfmake.cf8f3a7c.chunk.js.map": "/static/js/pdfmake.cf8f3a7c.chunk.js.map",
+    "canvg.0e0774b1.chunk.js.map": "/static/js/canvg.0e0774b1.chunk.js.map",
+    "xlsx.652db746.chunk.js.map": "/static/js/xlsx.652db746.chunk.js.map",
+>>>>>>> 36bea746161414a363b8312e5666c16031a4d44a
     "414.7a567288.chunk.js.map": "/static/js/414.7a567288.chunk.js.map",
     "77.34bd9019.chunk.js.map": "/static/js/77.34bd9019.chunk.js.map",
     "282.ec1017c4.chunk.js.map": "/static/js/282.ec1017c4.chunk.js.map",
@@ -69,6 +83,10 @@
   },
   "entrypoints": [
     "static/css/main.baf521c7.css",
+<<<<<<< HEAD
     "static/js/main.50e28825.js"
+=======
+    "static/js/main.a8bbf529.js"
+>>>>>>> 36bea746161414a363b8312e5666c16031a4d44a
   ]
 }
