@@ -1,4 +1,4 @@
-export const NETWORK_LIST_API = [
+export const NETWORK_LIST_API =[
     {
       "id": 23,
       "name": "Airbnb",
