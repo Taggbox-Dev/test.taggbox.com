@@ -1,16 +1,10 @@
 {
   "files": {
-<<<<<<< HEAD
     "main.css": "/static/css/main.4a2bbdee.css",
     "main.js": "/static/js/main.dfb6dffd.js",
     "pdfmake.js": "/static/js/pdfmake.6e28ee77.chunk.js",
-=======
-    "main.css": "/static/css/main.3aee4cff.css",
-    "main.js": "/static/js/main.296fb2dd.js",
-    "pdfmake.js": "/static/js/pdfmake.cf8f3a7c.chunk.js",
->>>>>>> 9bd926a93480eab78ea2ea2dacd25faeac012f74
     "canvg.js": "/static/js/canvg.0e0774b1.chunk.js",
-    "xlsx.js": "/static/js/xlsx.652db746.chunk.js",
+    "xlsx.js": "/static/js/xlsx.99e395b5.chunk.js",
     "static/js/414.7a567288.chunk.js": "/static/js/414.7a567288.chunk.js",
     "static/js/77.34bd9019.chunk.js": "/static/js/77.34bd9019.chunk.js",
     "static/js/282.ec1017c4.chunk.js": "/static/js/282.ec1017c4.chunk.js",
@@ -42,17 +36,11 @@
     "static/media/flags.png": "/static/media/flags.ae53191452bb217f0fa6.png",
     "static/media/digital-7_woff": "/static/media/digital-7_b73ef91485431ac0271f24009e14ccee.8e7783d8db97abaa0df5.woff",
     "index.html": "/index.html",
-<<<<<<< HEAD
     "main.4a2bbdee.css.map": "/static/css/main.4a2bbdee.css.map",
     "main.dfb6dffd.js.map": "/static/js/main.dfb6dffd.js.map",
     "pdfmake.6e28ee77.chunk.js.map": "/static/js/pdfmake.6e28ee77.chunk.js.map",
-=======
-    "main.3aee4cff.css.map": "/static/css/main.3aee4cff.css.map",
-    "main.296fb2dd.js.map": "/static/js/main.296fb2dd.js.map",
-    "pdfmake.cf8f3a7c.chunk.js.map": "/static/js/pdfmake.cf8f3a7c.chunk.js.map",
->>>>>>> 9bd926a93480eab78ea2ea2dacd25faeac012f74
     "canvg.0e0774b1.chunk.js.map": "/static/js/canvg.0e0774b1.chunk.js.map",
-    "xlsx.652db746.chunk.js.map": "/static/js/xlsx.652db746.chunk.js.map",
+    "xlsx.99e395b5.chunk.js.map": "/static/js/xlsx.99e395b5.chunk.js.map",
     "414.7a567288.chunk.js.map": "/static/js/414.7a567288.chunk.js.map",
     "77.34bd9019.chunk.js.map": "/static/js/77.34bd9019.chunk.js.map",
     "282.ec1017c4.chunk.js.map": "/static/js/282.ec1017c4.chunk.js.map",
@@ -80,12 +68,7 @@
     "897.c85d6ba5.chunk.js.map": "/static/js/897.c85d6ba5.chunk.js.map"
   },
   "entrypoints": [
-<<<<<<< HEAD
     "static/css/main.4a2bbdee.css",
     "static/js/main.dfb6dffd.js"
-=======
-    "static/css/main.3aee4cff.css",
-    "static/js/main.296fb2dd.js"
->>>>>>> 9bd926a93480eab78ea2ea2dacd25faeac012f74
   ]
 }
