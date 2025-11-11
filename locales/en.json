@@ -3648,7 +3648,7 @@
         "timeZone": "Time Zone",
         "sheduleTime": "Schedule Date & Time",
         "uploadMedia": "Upload Media",
-        "uploadMediaMsg": "Video size: Max 100MB Duration 01min | Image size: Max 50 MB",
+        "uploadMediaMsg": "Video size: Max 100MB Duration: 1min | Image size: Max 20 MB",
         "generate": "Generate",
         "reGenerate": "Re Generate",
         "postPreview": "Post Preview",
