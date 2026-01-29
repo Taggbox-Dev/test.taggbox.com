@@ -11,6 +11,12 @@
     <meta name="shopify-api-key" content="066f23b9c3f451886787d7086f5f10e8">
     <script defer="defer" src="/static/js/main.579e65ab.js"></script>
     <link href="/static/css/main.bc673889.css" rel="stylesheet">
+
+    <script type="text/javascript">
+        console.log("first script:", document.scripts[0]?.src);
+        console.log("has app bridge:", !!window['app-bridge']);
+        console.log("createApp:", window['app-bridge']?.createApp); 
+    </script>
 </head>
 
 <body
