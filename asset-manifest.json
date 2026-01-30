@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e3cf267c.css",
-    "main.js": "/static/js/main.170c10ab.js",
+    "main.js": "/static/js/main.f1782c95.js",
     "static/js/2992.0087e68f.chunk.js": "/static/js/2992.0087e68f.chunk.js",
     "static/js/3716.77c5e1ad.chunk.js": "/static/js/3716.77c5e1ad.chunk.js",
     "static/js/8295.cdb1b200.chunk.js": "/static/js/8295.cdb1b200.chunk.js",
@@ -73,18 +73,17 @@
     "static/js/1397.ba3bc839.chunk.js": "/static/js/1397.ba3bc839.chunk.js",
     "static/js/9888.3c27454d.chunk.js": "/static/js/9888.3c27454d.chunk.js",
     "static/js/1355.8daa663d.chunk.js": "/static/js/1355.8daa663d.chunk.js",
-    "static/js/6116.52046142.chunk.js": "/static/js/6116.52046142.chunk.js",
+    "static/js/6116.a39cac44.chunk.js": "/static/js/6116.a39cac44.chunk.js",
     "static/js/8993.71003087.chunk.js": "/static/js/8993.71003087.chunk.js",
     "static/js/5388.8270d34b.chunk.js": "/static/js/5388.8270d34b.chunk.js",
     "static/js/4367.9d5dfc85.chunk.js": "/static/js/4367.9d5dfc85.chunk.js",
     "static/js/6773.49351efc.chunk.js": "/static/js/6773.49351efc.chunk.js",
     "static/js/624.6578c4f9.chunk.js": "/static/js/624.6578c4f9.chunk.js",
     "static/js/7944.43fc5521.chunk.js": "/static/js/7944.43fc5521.chunk.js",
-    "static/media/web-vitals.umd.cjs": "/static/media/web-vitals.umd.5c9b7d9b25b4b8f4a270.cjs",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.e3cf267c.css",
-    "static/js/main.170c10ab.js"
+    "static/js/main.f1782c95.js"
   ]
 }
