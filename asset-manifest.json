@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.e3cf267c.css",
-    "main.js": "/static/js/main.1de6620d.js",
+    "main.js": "/static/js/main.e7f0fa8b.js",
     "static/js/2992.0087e68f.chunk.js": "/static/js/2992.0087e68f.chunk.js",
     "static/js/3716.77c5e1ad.chunk.js": "/static/js/3716.77c5e1ad.chunk.js",
     "static/js/8295.cdb1b200.chunk.js": "/static/js/8295.cdb1b200.chunk.js",
@@ -80,11 +80,10 @@
     "static/js/6773.49351efc.chunk.js": "/static/js/6773.49351efc.chunk.js",
     "static/js/624.6578c4f9.chunk.js": "/static/js/624.6578c4f9.chunk.js",
     "static/js/7944.43fc5521.chunk.js": "/static/js/7944.43fc5521.chunk.js",
-    "static/media/web-vitals.umd.cjs": "/static/media/web-vitals.umd.5c9b7d9b25b4b8f4a270.cjs",
     "index.html": "/index.html"
   },
   "entrypoints": [
     "static/css/main.e3cf267c.css",
-    "static/js/main.1de6620d.js"
+    "static/js/main.e7f0fa8b.js"
   ]
 }
