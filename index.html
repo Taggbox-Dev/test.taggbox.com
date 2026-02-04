@@ -3,9 +3,32 @@
 
 <head>
     <meta charset="utf-8" />
-
     <meta name="viewport" content="width=device-width,initial-scale=1" />
     <link rel="stylesheet" href="https://cloud.tagbox.com/react-app/font-awesome/css/all.css" crossorigin="anonymous">
+
+
+  <script>
+      if(!window.location.href.includes("shopify")) {
+        (function () {
+          // Create meta tag
+          var meta = document.createElement('meta');
+          meta.name = 'shopify-api-key';
+          meta.content = '066f23b9c3f451886787d7086f5f10e8';
+
+          // Create script tag
+          var script = document.createElement('script');
+          script.src = 'https://cdn.shopify.com/shopifycloud/app-bridge.js';
+          script.async = false;
+
+          // Prepend to head (top position)
+          var head = document.getElementsByTagName('head')[0];
+          head.prepend(script);
+          head.prepend(meta);
+        })();
+    }
+   </script>
+
+
     <script src="https://cloud.tagbox.com/app/jquery-3.6.0.min.js"></script>
     <script async src="https://tag.clearbitscripts.com/v1/pk_37061fd2e6d283d3cd00cdf0dafbe621/tags.js"
         referrerpolicy="strict-origin-when-cross-origin"></script>
