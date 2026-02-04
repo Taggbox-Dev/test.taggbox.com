@@ -12,12 +12,15 @@
 
     
     <script>
+
+        const IS_IN_IFRAM = () => window.self !== window.top
     
         const shopifyApp = ()=>{
-        const shopify = store.getState().authorized?.userData?.user_data?.sessionData?.createFrom?.toLowerCase() == 'shopify'
-        return (localStorage.getItem('shopifyLogin') == '1' || localStorage.getItem('shopifyHost') || shopify) && IS_IN_IFRAM()
+        return (localStorage.getItem('shopifyLogin') == '1' || localStorage.getItem('shopifyHost')) && IS_IN_IFRAM()
         //return false
     }
+
+    alret(IS_IN_IFRAM)
 
     alert(shopifyApp)
     shopifyApp() && !window.location.href.includes("install") && function () { var e = document.createElement("meta"); e.name = "shopify-api-key", e.content = "066f23b9c3f451886787d7086f5f10e8"; var n = document.createElement("script"); n.src = "https://cdn.shopify.com/shopifycloud/app-bridge.js", n.async = !1; var t = document.getElementsByTagName("head")[0]; t.prepend(n), t.prepend(e) }()</script>
