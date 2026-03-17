@@ -2290,6 +2290,18 @@
         },
         "overview_content": [
             {
+                "name": "Post totali",
+                "tooltip": "Numero totale di post in tutti i tuoi feed",
+                "description": "Numero totale di post in tutti i tuoi feed",
+                "type": "Total Posts"
+            },
+            {
+                "name": "Clic totali",
+                "tooltip": "Numero di volte in cui il widget è stato cliccato",
+                "description": "Numero di volte in cui il widget è stato cliccato",
+                "type": "Total Clicks"
+            },
+            {
                 "name": "Post raccolti",
                 "tooltip": "I tuoi contenuti social curati appariranno qui",
                 "description": "Numero complessivo di post su tutti i tuoi feed",
